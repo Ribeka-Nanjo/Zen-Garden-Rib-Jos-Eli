@@ -489,7 +489,7 @@
 }
 
 header {
-  background: #3e5330;
+  background: #88a090;
   color: #fafafa;
   text-align: center;
   flex: 0 0 100%;
@@ -657,7 +657,6 @@ aside li a {
   margin: 0;
   padding: 0;
 }
-
 body {
   background-color: #baa793;
   background-image: url(../c99a77d642aa08cd728e86861fe90248.jpg);
